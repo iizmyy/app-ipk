@@ -20,7 +20,7 @@ def load_data():
 
 df = load_data()
 
-st.sidebar.markdown("### Halaman EDA 🔍")
+st.sidebar.markdown("#### Halaman EDA 🔍")
 
 st.title("Exploratory Data Analysis")
 st.write("Explorasi data IPS semester 1-3 dan IPK akhir mahasiswa")
